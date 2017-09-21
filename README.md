@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio page
 
-You can use the [editor on GitHub](https://github.com/Renaissence/ium.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You will be presented with an awesome content and material:
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
